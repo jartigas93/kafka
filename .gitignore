@@ -1,8 +1,0 @@
-commands.txt
-bkp_docker-compose.yaml
-archive.zip
-api_aircraft_producer/.env_bkp
-archive/
-consumer/
-producer/
-api_producer/
